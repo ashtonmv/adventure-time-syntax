@@ -1,7 +1,7 @@
 {
   "name": "adventure-time-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A syntax theme based on the Adventure Time palette for iTerm2.",
   "keywords": [
     "syntax",
